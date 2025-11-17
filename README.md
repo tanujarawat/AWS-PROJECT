@@ -68,6 +68,9 @@ Before starting the project, I downloaded and unzipped the **student-ready start
 
 My static website is successfully deployed and globally accessible using CloudFront.
 
-👉 **Live Site:** https://dfqgubps2yve4.cloudfront.net/
+### 🔗 Live Website  
+👉**CloudFront URL:** https://dfqgubps2yve4.cloudfront.net/  
+👉**S3 Website URL:** [http://your-bucket-name.s3-website-<region>.amazonaws.com/](http://my-satvik-bucket.s3-website-us-east-1.amazonaws.com)
+
 
 
